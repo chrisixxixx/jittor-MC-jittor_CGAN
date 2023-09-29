@@ -1,7 +1,7 @@
 # Jittor挑战热身赛（手写数字生成赛题）
 
 运行结果示例
-![image]https://github.com/chrisixxixx/jittor-MC-jittor_CGAN/blob/main/result.png
+![image](https://github.com/chrisixxixx/jittor-MC-jittor_CGAN/blob/main/result.png)
 
 ## 简介
 
