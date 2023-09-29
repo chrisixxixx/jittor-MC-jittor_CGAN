@@ -1,6 +1,6 @@
 # Jittor挑战热身赛（手写数字生成赛题）
 
-运行结果示例（https://s3.bmp.ovh/imgs/2023/04/24/b4954e69f71b0fca.png）
+运行结果示例（https://www.imgurl.org/img/b4954e69f71b0fca）
 
 ## 简介
 
